@@ -41,8 +41,8 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyChUiOVanVDALrXCTgMs4Zegc_Ks2iWpk4',
-    appId: '1:897095370915:web:b5014eeb2d8d50b6399716',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '897095370915',
     projectId: 'grocery-d25ed',
     authDomain: 'grocery-d25ed.firebaseapp.com',
@@ -51,16 +51,16 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDfGv2_6rnXW3ZKTBSj_mlnk4JK0dNaY_s',
-    appId: '1:897095370915:android:f6d6e7152f4caa7a399716',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '897095370915',
     projectId: 'grocery-d25ed',
     storageBucket: 'grocery-d25ed.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyD9a0fMSLsT95v8kALE8f8nbJUa2OJcNdE',
-    appId: '1:897095370915:ios:696c234559185694399716',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '897095370915',
     projectId: 'grocery-d25ed',
     storageBucket: 'grocery-d25ed.appspot.com',
@@ -70,8 +70,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyD9a0fMSLsT95v8kALE8f8nbJUa2OJcNdE',
-    appId: '1:897095370915:ios:696c234559185694399716',
+    apiKey: '',
+    appId: '6',
     messagingSenderId: '897095370915',
     projectId: 'grocery-d25ed',
     storageBucket: 'grocery-d25ed.appspot.com',
@@ -81,8 +81,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyChUiOVanVDALrXCTgMs4Zegc_Ks2iWpk4',
-    appId: '1:897095370915:web:eaed1db1b4a30d06399716',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '897095370915',
     projectId: 'grocery-d25ed',
     authDomain: 'grocery-d25ed.firebaseapp.com',
